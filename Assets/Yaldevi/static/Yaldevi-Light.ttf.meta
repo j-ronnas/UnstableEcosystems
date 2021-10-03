@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 9ced9b3e01e23ff4ba0c6316e7f13f99
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Yaldevi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74bf030d85e0544449f8259cc14f14b2, type: 3}
+  - {fileID: 12800000, guid: 620d4b88e13906c4ba4d34e1582252c3, type: 3}
+  - {fileID: 12800000, guid: f6fe2408c6268c5409b21258508b80a8, type: 3}
+  - {fileID: 12800000, guid: c8a0168ae238f7d419a61739c769a8b0, type: 3}
+  - {fileID: 12800000, guid: 717df83af428f46459e4af52b53136ad, type: 3}
+  - {fileID: 12800000, guid: 853909c98efdc3548b393e2ad2e122fa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
